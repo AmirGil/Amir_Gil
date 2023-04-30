@@ -25,6 +25,11 @@ div a{
     width: auto;
     background-color: gold;
     text-transform: uppercase;
+    
+}
+
+a:hover{
+    color: #00FF00;
 }
 
 button{
